@@ -9,5 +9,5 @@ rsync -a /home/dillen/.local/share/Steam/steamapps/compatdata/2323157508/pfx/dri
 
 
 git add -A
-git commit -am "Update {$timestamp}"
+git commit -am "Update ${timestamp}"
 git push
